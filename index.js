@@ -16,10 +16,20 @@ inquirer
       message: "Describe your project in detail.",
     },
     {
-        type: 'list',
-        name: 'license',
-        message: 'Choose your license',
-        choices: ['Apache_2.0', 'MIT', 'Boost_1.0']
+      type: "list",
+      name: "license",
+      message: "Choose your license",
+      choices: ["Apache_2.0", "MIT", "Boost_1.0"],
+    },
+    {
+      type: "input",
+      name: "username",
+      message: "Please enter your Github username!",
+    },
+    {
+      type: "input",
+      name: "email",
+      message: "Please enter your email address.",
     },
   ])
   .then((answers) => {
