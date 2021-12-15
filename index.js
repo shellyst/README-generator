@@ -21,6 +21,11 @@ inquirer
       message: "Describe the installation process if applicable.",
     },
     {
+      type: "input",
+      name: "usage",
+      message: "What is the main intended usage of your project?",
+    },
+    {
       type: "list",
       name: "license",
       message: "Choose your license",
