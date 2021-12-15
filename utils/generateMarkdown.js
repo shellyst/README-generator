@@ -26,6 +26,7 @@ ${data.usage}
 ${data.contributors}
 
 ##Tests
+${data.tests}
 
 ##Questions
 

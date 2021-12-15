@@ -39,6 +39,12 @@ inquirer
     },
     {
       type: "input",
+      name: "tests",
+      message:
+        "Please describe if there was a way in which this application can be tested.",
+    },
+    {
+      type: "input",
       name: "username",
       message: "Please enter your Github username!",
     },
