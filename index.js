@@ -33,6 +33,12 @@ inquirer
     },
     {
       type: "input",
+      name: "contributors",
+      message:
+        "Who are the contributors to this project, and what are the guidelines for future contributions?",
+    },
+    {
+      type: "input",
       name: "username",
       message: "Please enter your Github username!",
     },
