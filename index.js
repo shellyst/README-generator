@@ -16,6 +16,11 @@ inquirer
       message: "Describe your project in detail.",
     },
     {
+      type: "input",
+      name: "installation",
+      message: "Describe the installation process if applicable."
+    }
+    {
       type: "list",
       name: "license",
       message: "Choose your license",

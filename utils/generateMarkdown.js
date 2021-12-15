@@ -14,7 +14,7 @@ function generateMarkdown(data) {
 ${data.description}
 
 ##Installation
-
+${data.installation}
 
 ##Usage
 
@@ -29,7 +29,7 @@ ${data.description}
 
 View my previous work on Github: [${data.username}](https://github.com/${data.username})
 </br>
-Shoot me an email to ask any questions, or inquire about collaboration: ${data.email}
+📧Shoot me an email to ask any questions, or inquire about collaboration: ${data.email}
 
 `;
 }
