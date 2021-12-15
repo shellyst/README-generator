@@ -18,13 +18,13 @@ inquirer
     {
       type: "input",
       name: "installation",
-      message: "Describe the installation process if applicable."
-    }
+      message: "Describe the installation process if applicable.",
+    },
     {
       type: "list",
       name: "license",
       message: "Choose your license",
-      choices: ["Apache_2.0", "MIT", "Boost_1.0"],
+      choices: ["Apache_2.0", "MIT", "Boost_1.0", "MPL_2.0"],
     },
     {
       type: "input",
