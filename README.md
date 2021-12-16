@@ -10,22 +10,22 @@
 - [Questions](#questions)
 
 ## Description
-This project is intended to generate a professional README file that can be used on any project created on Github.
+This project is meant to generate a professional README file that is styled, and ready to be placed on any Github repository.
 
 ## Installation
-To install, simply download files and run the terminal command node index.
+To install, download files to local machine and run the node index command in the Terminal.
 
 ## Usage
-To generate README files for professional projects.
+To generate a professional, styled README file.
 
 ## License
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licensesApache_2.0)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licensesMIT)
 
 ## Contributing
-Michelle Stone.
+Michelle Stone
 
 ## Tests
-To test if application is running properly, run node index, fill out questions and prompts, and check to see if README.md file has been generated upon completion.
+To test this application, run the node index command in the terminal, fill out the prompts, and check to see if a README.md file is generated upon completion.
 
 ## Questions
 
