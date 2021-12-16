@@ -13,22 +13,22 @@ function generateMarkdown(data) {
 ## Description
 ${data.description}
 
-##Installation
+## Installation
 ${data.installation}
 
-##Usage
+## Usage
 ${data.usage}
 
 ## License
 [![License](https://img.shields.io/badge/License-${data.license}-blue.svg)](https://opensource.org/licenses${data.license})
 
-##Contributing
+## Contributing
 ${data.contributors}
 
-##Tests
+## Tests
 ${data.tests}
 
-##Questions
+## Questions
 
 View my previous work on Github: [${data.username}](https://github.com/${data.username})
 </br>
